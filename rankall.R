@@ -1,10 +1,3 @@
-#rankall.R
-#R Programming Assignment 3
-#Phillip.Escandon@gmail.com
-
-
-
-
 library(dplyr)
 options(warn = -1)
 
